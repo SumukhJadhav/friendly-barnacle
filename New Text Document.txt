@@ -1,2 +1,4 @@
 Hello this is line 1
 LINE 2
+
+NEW LINE by xyz
